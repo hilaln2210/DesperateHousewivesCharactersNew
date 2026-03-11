@@ -1,5 +1,7 @@
 # Desperate Housewives Character Guide
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An Android app that provides an interactive character guide for the TV series *Desperate Housewives*. Browse and search all main characters with photos and detailed bios, with a polished splash/title screen on launch.
 
 ## Screenshots
