@@ -4,7 +4,9 @@ An Android app that provides an interactive character guide for the TV series *D
 
 ## Screenshots
 
-> Screenshots available after running on an Android emulator or physical device.
+| Splash Screen | Character List | Character Detail |
+|---|---|---|
+| ![Splash Screen](screenshots/splash.png) | ![Character List](screenshots/character_list.png) | ![Character Detail](screenshots/character_detail.png) |
 
 ## Features
 
